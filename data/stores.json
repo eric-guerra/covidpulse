@@ -1,0 +1,38 @@
+[
+  {
+    "id": "S001",
+    "name": "Austin Downtown",
+    "county": "Travis County, TX",
+    "fips": "48453"
+  },
+  {
+    "id": "S002",
+    "name": "Houston Galleria",
+    "county": "Harris County, TX",
+    "fips": "48201"
+  },
+  {
+    "id": "S003",
+    "name": "San Antonio North",
+    "county": "Bexar County, TX",
+    "fips": "48029"
+  },
+  {
+    "id": "S004",
+    "name": "Dallas Uptown",
+    "county": "Dallas County, TX",
+    "fips": "48113"
+  },
+  {
+    "id": "S005",
+    "name": "El Paso West",
+    "county": "El Paso County, TX",
+    "fips": "48141"
+  },
+  {
+    "id": "S006",
+    "name": "Round Rock",
+    "county": "Williamson County, TX",
+    "fips": "48491"
+  }
+]
